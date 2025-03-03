@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         <button
           className="bg-[#328FFA] text-white mt-6 px-10 py-5 rounded-lg border-1 border-black hover:cursor-pointer"
-          onClick={() => navigate("/ apply")}
+          onClick={() => navigate("/apply")}
         >
           Apply Now & Get Certified
         </button>
