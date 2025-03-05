@@ -49,10 +49,10 @@ const Contact = () => {
                 <i className="ri-map-pin-fill text-xl"></i> InternHub, Miyapur, Hyderabad, Telangana
               </p>
               <p className="flex items-center gap-2">
-                <i className="ri-phone-fill text-xl"></i> +91 8000146391
+                <i className="ri-phone-fill text-xl"></i> +91 7702 827 739
               </p>
               <p className="flex items-center gap-2">
-                <i className="ri-message-2-fill text-xl"></i> 8000146391
+                <i className="ri-message-2-fill text-xl"></i> 7702 827 739
               </p>
               <p className="flex items-center gap-2">
                 <i className="ri-mail-fill text-xl"></i> info@zoomsterhub.com
